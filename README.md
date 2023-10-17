@@ -1,10 +1,10 @@
 # ABDEL SINI GEORGE'S PORTFOLIO
 
-Welcome to my GitHub portfolio! I'm a passionate software developer with a strong interest in web development and open-source projects. Below, you'll find a selection of projects I've worked on. Feel free to explore, collaborate, or reach out if you have any questions or opportunities for collaboration.
+Welcome to my GitHub portfolio! I'm a analytic student with a strong interest in data and business analytics. Below, you'll find a selection of projects I've worked on. Feel free to explore, collaborate, or reach out if you have any questions or opportunities for collaboration.
 
 ## About Me
 
-I'm a junior marketing analyst with a focus on business analytics. I love to learn and experiment with new technologies, and I'm dedicated to writing clean and maintainable code.
+I'm a junior marketing analyst with a focus on formulating strategy for marketing campaigns. I love to learn and experiment with new technologies, and I'm dedicated to writing clean and maintainable code.
 
 ## Projects
 
