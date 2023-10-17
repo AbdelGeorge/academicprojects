@@ -40,7 +40,7 @@ I'm a junior marketing analyst with a focus on formulating strategy for marketin
 Please feel free to contact me if you'd like to collaborate, have questions, or just want to connect:
 
 - **Email:** abdelsinigeorge2@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/abdel-george)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/abdel-george)
 
 
 Thank you for visiting my portfolio!
