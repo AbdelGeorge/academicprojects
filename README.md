@@ -1,6 +1,6 @@
 # ABDEL SINI GEORGE'S PORTFOLIO
 
-Welcome to my GitHub portfolio! I'm a analytic student with a strong interest in data and business analytics. Below, you'll find a selection of projects I've worked on. Feel free to explore, collaborate, or reach out if you have any questions or opportunities for collaboration.
+Welcome to my GitHub portfolio! I'm a analytics student with a strong interest in data and business analytics. Below, you'll find a selection of projects I've worked on. Feel free to explore, collaborate, or reach out if you have any questions or opportunities for collaboration.
 
 ## About Me
 
