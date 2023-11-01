@@ -38,10 +38,10 @@ I'm a junior marketing analyst with a focus on formulating strategy for marketin
     
 - Repository: [Project 4 Repository](https://github.com/AbdelGeorge/academicprojects/blob/main/Sales%20Analysis%20Portfolio.pbix)
 - SQL Preprocessing:
-- [DIM_Calendar](https://github.com/AbdelGeorge/academicprojects/blob/main/SQL_DIM_Calender.sql)
-- [DIM_Customers](https://github.com/AbdelGeorge/academicprojects/blob/main/SQL_DIM_Customers.sql)
-- [DIM_Products](https://github.com/AbdelGeorge/academicprojects/blob/main/SQL_DIM_Products.sql)
-- [FACT_InternetSales](https://github.com/AbdelGeorge/academicprojects/blob/main/SQL_FACT_InternetSales..sql)
+--- [DIM_Calendar](https://github.com/AbdelGeorge/academicprojects/blob/main/SQL_DIM_Calender.sql)
+--- [DIM_Customers](https://github.com/AbdelGeorge/academicprojects/blob/main/SQL_DIM_Customers.sql)
+--- [DIM_Products](https://github.com/AbdelGeorge/academicprojects/blob/main/SQL_DIM_Products.sql)
+--- [FACT_InternetSales](https://github.com/AbdelGeorge/academicprojects/blob/main/SQL_FACT_InternetSales..sql)
 - Technologies: Power BI, SQL
   ## Skills
 
