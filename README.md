@@ -36,8 +36,12 @@ I'm a junior marketing analyst with a focus on formulating strategy for marketin
 *Developed an interactive visual dashboard featuring slicer options for effective segmentation analysis across various sales segments, all within Power BI.
 *Created a dynamic visualization tool to evaluate key sales metrics based on budget and sales variables, enabling real-time monitoring of sales performance.
     
-- Repository: [Project 4 Repository](https://github.com/AbdelGeorge/academicprojects/blob/2bf8eafaedba0583d1e97ee0266533a16573fb25/RUSSIAN%20HOUSING%20PRICE%20PREDICTION.ipynb)
-- Project Doc: [Report 3](https://github.com/AbdelGeorge/academicprojects/blob/2bf8eafaedba0583d1e97ee0266533a16573fb25/RUSSIAN%20HOUSING%20PRICE%20PREDICTION%20REPORT.pdf)
+- Repository: [Project 4 Repository](https://github.com/AbdelGeorge/academicprojects/blob/main/Sales%20Analysis%20Portfolio.pbix)
+- SQL Preprocessing:
+- [DIM_Calendar](https://github.com/AbdelGeorge/academicprojects/blob/main/SQL_DIM_Calender.sql)
+- [DIM_Customers](https://github.com/AbdelGeorge/academicprojects/blob/main/SQL_DIM_Customers.sql)
+- [DIM_Products](https://github.com/AbdelGeorge/academicprojects/blob/main/SQL_DIM_Products.sql)
+- [FACT_InternetSales](https://github.com/AbdelGeorge/academicprojects/blob/main/SQL_FACT_InternetSales..sql)
 - Technologies: Power BI, SQL
   ## Skills
 
