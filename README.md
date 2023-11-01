@@ -28,6 +28,17 @@ I'm a junior marketing analyst with a focus on formulating strategy for marketin
 - Project Doc: [Report 3](https://github.com/AbdelGeorge/academicprojects/blob/2bf8eafaedba0583d1e97ee0266533a16573fb25/RUSSIAN%20HOUSING%20PRICE%20PREDICTION%20REPORT.pdf)
 - Technologies: Python, Linear Regression Model
 
+### Project 4: SALES ANALYSIS OF E-COMMERCE COMPANY USING VISUAL DASHBOARDS 
+- Description: The project aimed to create a comprehensive visual dashboard for analyzing the sales data of an e-commerce company, providing insights into trends and sales statistics across different product categories over a 3-year period. The objective included monitoring real-time sales performance through dynamically determined sales and budget-specific Key Performance Indicators (KPIs).
+*Conducted data preprocessing and transformation using SQL queries, focusing on Joins and Aggregation techniques.
+*Implemented data cleaning procedures, handling null values through SQL ISNULL function, and performed data encoding using SQL Case expressions.
+*Executed Data modeling and designed a star schema, establishing relationships between fact and dimension tables using Power BI.
+*Developed an interactive visual dashboard featuring slicer options for effective segmentation analysis across various sales segments, all within Power BI.
+*Created a dynamic visualization tool to evaluate key sales metrics based on budget and sales variables, enabling real-time monitoring of sales performance.
+    
+- Repository: [Project 4 Repository](https://github.com/AbdelGeorge/academicprojects/blob/2bf8eafaedba0583d1e97ee0266533a16573fb25/RUSSIAN%20HOUSING%20PRICE%20PREDICTION.ipynb)
+- Project Doc: [Report 3](https://github.com/AbdelGeorge/academicprojects/blob/2bf8eafaedba0583d1e97ee0266533a16573fb25/RUSSIAN%20HOUSING%20PRICE%20PREDICTION%20REPORT.pdf)
+- Technologies: Power BI, SQL
   ## Skills
 
 - **Programming Languages:** Python, SQL
