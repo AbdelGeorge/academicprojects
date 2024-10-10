@@ -57,7 +57,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 Please feel free to contact me if you'd like to collaborate, have questions, or just want to connect:
 
-- **Email:** abdelsinigeorge2@gmail.com
+- **Email:** abdelsinig@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/abdel-george)
 
 
