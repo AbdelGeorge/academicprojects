@@ -1,10 +1,13 @@
 # ABDEL SINI GEORGE'S PORTFOLIO
 
-Welcome to my GitHub portfolio! I'm a analytics student with a strong interest in data and business analytics. Below, you'll find a selection of projects I've worked on. Feel free to explore, collaborate, or reach out if you have any questions or opportunities for collaboration.
-
+Welcome to my GitHub portfolio!  I'm a passionate Data Analyst with experience in data analysis, reporting, and database management. My expertise lies in extracting meaningful insights from complex datasets, making data-driven decisions, and visualizing trends that drive business success.
 ## About Me
 
-I'm a junior marketing analyst with a focus on formulating strategy for marketing campaigns. I love to learn and experiment with new technologies, and I'm dedicated to writing clean and maintainable code.
+Hi, I'm Abdel Sini George, a passionate Data Analyst with around 2 years of experience.I have hands-on experience in data cleansing, preprocessing, and transforming raw data into actionable reports and dashboards. My technical skills include proficiency with SQL, Excel, Power BI, Tableau, and Python, allowing me to work seamlessly across different platforms and tools.
+
+I am committed to continuous learning and applying the latest techniques in data analysis, aiming to solve real-world problems and create impactful solutions. I look forward to contributing my skills and enthusiasm for data to new and exciting projects!
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 ## Projects
 
